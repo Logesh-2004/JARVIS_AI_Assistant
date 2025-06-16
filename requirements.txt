@@ -1,0 +1,9 @@
+openai
+pyttsx3
+speechrecognition
+whisper
+pyaudio
+pyautogui
+apscheduler
+python-dotenv
+requests
